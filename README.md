@@ -41,3 +41,5 @@ _This was the primary reason behind the development of `gitshit`._
 _To be fair, I was originally going to make a new script called `shitgit` but I realized it was (probably) overkill (albeit funny). Maybe I'll do it anyway._
 
 **Further development will mainly be motivated by the need to induce automation into my daily routine but I will most certainly attempt to publish scripts that help someone other than myself.**
+
+**I am well aware that this entire repo could be replaced simply by adding a function/alias to my .bashrc file but my motivation in creating a separate repo was to use it for a tutorial that I intend to organize next year (once I'm back in India) in order to help freshmen and sophomores learn more/develop an interest in how the command-line works the hard way before introducing the concept of aliases, environment variables, and the .bashrc file.**
